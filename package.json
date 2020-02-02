@@ -1,0 +1,14 @@
+{
+  "name": "rollup-plugin-watch-assets",
+  "version": "1.0.0",
+  "description": "Dead-simple rollup plugin to watch (non-js) assets like HTML and CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rollup"
+  ],
+  "author": "Benny Powers <web@bennypowers.com>",
+  "license": "ISC"
+}
